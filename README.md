@@ -1,7 +1,6 @@
 This Palindrome Checker is a web application that checks if a word, phrase, or number is the same forwards and backwards. It handles text, numbers, and ignores spaces, punctuation, and case to provide accurate results with smooth animation.
 
 ---
-This Palindrome Checker is a simple yet efficient web application that allows users to verify if a word, phrase, or number is a palindrome — a sequence that reads the same backward as forward. It handles both text and numbers, and automatically ignores spaces, punctuation, and letter/number case to ensure accurate palindrome detection.
 Features
 ---
 🔄 Works with both Strings and Numbers: Enter any word, phrase, or numeric sequence.
@@ -62,7 +61,6 @@ Output Examples
 2. Word
 ![Screenshot 2024-12-20 221701](https://github.com/user-attachments/assets/25d2956d-2962-4c2e-91d3-7ee2c702fcd7)
 
-3.Phrases
-![Screenshot 2024-12-20 221638](https://github.com/user-attachments/assets/3d3b7820-bca6-447c-a279-4da84b85d89c)
 3. Phrase
-Show ImageLast edited just now
+![Screenshot 2024-12-20 221638](https://github.com/user-attachments/assets/3d3b7820-bca6-447c-a279-4da84b85d89c)
+
