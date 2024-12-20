@@ -11,13 +11,17 @@ Features
 Built With
 ---
 HTML: To structure the application.
+
 CSS: For styling and creating animations.
+
 JavaScript: To implement the palindrome checking logic and interactive features.
 
 How It Works
 ---
 Enter a Word, Number, or Phrase: Type your text or numeric value into the input field.
+
 Click "Check": Press the button to check if it's a palindrome.
+
 View the Result: Get an instant result — the app tells you if your input is a palindrome or not.
 
 Example Inputs
